@@ -1,0 +1,15 @@
+{
+  "name": "myChatbot",
+  "version": "1.0.0",
+  "description": "To talk to Rival chatbot challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Victor Garcia",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {}
+}
